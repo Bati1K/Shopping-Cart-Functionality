@@ -11,3 +11,9 @@ In this project, I have implemented the following core functionalities:
 - **Checkout Functionality**: I implemented functionality to calculate the total cost of items in the cart and to simulate a payment process.
 
 - **Receipt**: I added functionality to summarize the items in the cart and display the total amount due.
+  
+## You can find all the relevant code within `script.js` under the respective sections for each functionality.
+
+├── src
+│ ├── assets
+│ │ ├── script.js <--- 
