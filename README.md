@@ -13,7 +13,4 @@ In this project, I have implemented the following core functionalities:
 - **Receipt**: I added functionality to summarize the items in the cart and display the total amount due.
   
 ## You can find all the relevant code within `script.js` under the respective sections for each functionality.
-
-├── src
-│ ├── assets
-│ │ ├── script.js <--- 
+  || Starter -> src -> assets -> script.js
